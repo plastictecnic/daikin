@@ -1,0 +1,55 @@
+// Body
+$body-bg: #f8fafc;
+
+// Typography
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+// Colors
+$blue: #3490dc;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66d9b;
+$red: #e3342f;
+$orange: #f6993f;
+$yellow: #ffed4a;
+$green: #38c172;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
+
+
+// Custom
+form {
+    font-size: 12px;
+}
+
+form select{
+    font-size: 12px;
+}
+
+.inputs{
+    width: 200px;
+    height: 30px;
+    padding: 3px;
+}
+
+.button {
+    width: 100px !important;
+}
+
+.bahaya{
+    height: 150px;
+    background: #e3342f;
+    width: 100%;
+    color: #f8fafc;
+    font-size: 100px;
+}
+
+.terbaik{
+    height: 150;
+    background: #38c172;
+    width: 100%;
+    color: #f8fafc;
+    font-size: 100px;
+}
